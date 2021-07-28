@@ -60,8 +60,8 @@ Portfolio development example- assignment
 
 
 <br>✔️ Contact Me
- <br>:eight_spoked_asterisk: [github](https://github.com/viirensharma/)
- <br> :office: [linkedin](https://www.linkedin.com/in/viirensharma/)
+ <br> [github](https://github.com/viirensharma/)
+ <br> [linkedin](https://www.linkedin.com/in/viirensharma/)
  <br>:email:	gmail: "virensharma45@gmail.com"
  
  <br>
