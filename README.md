@@ -31,40 +31,20 @@ Portfolio development example- assignment
 <br>• Extensive experience in Software Quality Testing of Web Client/Server and Web Services applications using Manual testing.
 <br>• Expertise in diverse domain technologies like Retail, Food Delivery & E-commerce.
 
+<br>
+## SKILLS
+<br> Testing- Manual and Automation
+<br> Data Analyst
 
 
 
-const greeting = {
-  /* Your Summary And Greeting Section */
-  title: "Hi all I'm Viren",
-  subTitle: emoji("A passionate Quality Assurance Engineer 🚀"),
-};
-
-const socialMediaLinks = {
-  /* Your Social Media Link */
-  github: "https://github.com/viirensharma/",
-  linkedin: "https://www.linkedin.com/in/viirensharma/",
-  gmail: "virensharma45@gmail.com",
-};
+## CONTACT ME
+ <br> [github]( "https://github.com/viirensharma/")
+  <br>[linkedin]( "https://www.linkedin.com/in/viirensharma/")
+  <br>gmail: "virensharma45@gmail.com"
 
 
-const skillsSection = { .... }
 
-const techStack = { .... }
-
-const workExperience = { .... }
-
-const openSource = { .... }
-
-const bigProjects = { .... }
-
-const achievementSection = { .... }
-
-const blogSection = { .... }
-
-const contactInfo = { .... }
-
-const twitterDetails = { ... }
 
 
 
