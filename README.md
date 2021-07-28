@@ -7,7 +7,6 @@ Portfolio development example- assignment
 **Setup**
 **Markdown Overview: Add Text/Headers/Images/Links**
 **Create a resume-style portfolio**
-**Adding Image: ![image](https://user-images.githubusercontent.com/88114138/127397266-f26dd0bd-c37a-480e-80ba-3afa890afc37.png)**
-![download](https://user-images.githubusercontent.com/88114138/127396850-7e6d604c-cfeb-484a-a92e-59f9ce557a0f.png)
+**Adding Image: ![download](https://user-images.githubusercontent.com/88114138/127397763-a81843ad-81a9-4d53-b525-45b42e9dbb19.png)**
 **Adding Link: [Link to read more about Portfolio](https://github.com/sajal2692/data-science-portfolio)**
 
