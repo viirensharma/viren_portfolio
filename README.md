@@ -1,7 +1,5 @@
-# viren_portfolio
+# viren_portfolio-  Project1
 Portfolio development example- assignment
-
-# Project1
 **Assignment**
 
 *Adding text here for the portfolio, this text has been added for the portfolio in the readme*
