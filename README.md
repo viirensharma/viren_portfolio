@@ -39,8 +39,8 @@ Portfolio development example- assignment
 
 
 ## CONTACT ME
- <br> [github]( "https://github.com/viirensharma/")
-  <br>[linkedin]( "https://www.linkedin.com/in/viirensharma/")
+ <br> [github](https://github.com/viirensharma/)
+  <br>[linkedin](https://www.linkedin.com/in/viirensharma/)
   <br>gmail: "virensharma45@gmail.com"
 
 
