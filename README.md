@@ -38,7 +38,7 @@ Portfolio development example- assignment
 <br>:mortar_board:Bachelor of Engineering in Computer Science
 <br>:school_satchel: High school and Senior High 
 
-<br>✔️Work Experience
+<br>✔️ Work Experience
 <br>• Knowledge of Web Applications and Mobile Applications Testing using Agile Methodology.
 <br>• Knowledge in Bug Tracking and Reporting.
 <br>• Extensive experience in Software Quality Testing of Web Client/Server and Web Services applications using Manual testing.
@@ -52,6 +52,7 @@ Portfolio development example- assignment
 
 
 <br>✔️Photography
+
 *Sharing some of my favourite photgraphs here*
 <br> 1. <img src="https://user-images.githubusercontent.com/88114138/127405313-cc0e6969-0966-4428-bd0e-7485aa47d7a4.jpg" width="300" height="400">
 <br> 2. <img src="https://user-images.githubusercontent.com/88114138/127405007-adab0a8e-dbd9-421a-99f3-65f3b4ab60c3.JPG" width="500" height="400">
@@ -62,18 +63,7 @@ Portfolio development example- assignment
 <br>✔️ Contact Me
  <br> [github](https://github.com/viirensharma/)
  <br> [linkedin](https://www.linkedin.com/in/viirensharma/)
- <br> :email:	gmail: "virensharma45@gmail.com"
+ <br> :email:	: "virensharma45@gmail.com"
  
  <br>
-:thumbsup: THANK YOU 
-
-
-
-
-
-
-
-
-
-
-
+:thumbsup: THANK YOU
