@@ -62,10 +62,10 @@ Portfolio development example- assignment
 <br>✔️ Contact Me
  <br> [github](https://github.com/viirensharma/)
  <br> [linkedin](https://www.linkedin.com/in/viirensharma/)
- <br>:email:	gmail: "virensharma45@gmail.com"
+ <br> :email:	gmail: "virensharma45@gmail.com"
  
  <br>
-:thumbsup:# THANK YOU 
+:thumbsup: THANK YOU 
 
 
 
