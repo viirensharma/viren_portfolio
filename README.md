@@ -39,9 +39,9 @@ Portfolio development example- assignment
 
 
 <br>✔️ Education
-<br>:school: PGDM in Data Analytics for Business Decision Making  
-<br>:mortar_board:Bachelor of Engineering in Computer Science
-<br>:school_satchel: High school and Senior High 
+<br>: school : PGDM in Data Analytics for Business Decision Making  
+<br>: mortar_board : Bachelor of Engineering in Computer Science
+<br>: school_satchel : High school and Senior High 
 
 <br>✔️ Work Experience
 <br>• Knowledge of Web Applications and Mobile Applications Testing using Agile Methodology.
