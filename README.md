@@ -25,6 +25,7 @@ Portfolio development example- assignment
 <br>• Loves Cricket
 <br>•Loves photography
 <br> <b>[Have a look at my Project Roadmap](https://github.com/viirensharma/viren_portfolio/projects/1)</b>
+
 <br> My Roadmap's image:
 <img src="https://user-images.githubusercontent.com/88114138/128921452-610da7cd-ea02-42ca-8681-8548413aa1ed.png" width="300" height="400">
 
@@ -40,8 +41,8 @@ Portfolio development example- assignment
 
 <br>✔️ Education
 <br>:school: PGDM in Data Analytics for Business Decision Making  
-<br>: mortar_board : Bachelor of Engineering in Computer Science
-<br>: school_satchel : High school and Senior High 
+<br>:mortar_board: Bachelor of Engineering in Computer Science
+<br>:school_satchel: High school and Senior High 
 
 <br>✔️ Work Experience
 <br>• Knowledge of Web Applications and Mobile Applications Testing using Agile Methodology.
@@ -68,7 +69,7 @@ Portfolio development example- assignment
 <br>✔️ Contact Me
  <br> [github](https://github.com/viirensharma/)
  <br> [linkedin](https://www.linkedin.com/in/viirensharma/)
- <br> :email:	: "virensharma45@gmail.com"
+ <br>:email:	: "virensharma45@gmail.com"
  
  <br>
 :thumbsup: THANK YOU
