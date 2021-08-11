@@ -27,7 +27,7 @@ Portfolio development example- assignment
 <br> <b>[Have a look at my Project Roadmap](https://github.com/viirensharma/viren_portfolio/projects/1)</b>
 
 <br> My Roadmap's image:
-<img src="https://user-images.githubusercontent.com/88114138/128921452-610da7cd-ea02-42ca-8681-8548413aa1ed.png" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/88114138/128921452-610da7cd-ea02-42ca-8681-8548413aa1ed.png" width="400" height="500">
 
 
 
