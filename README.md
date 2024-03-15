@@ -5,8 +5,6 @@ Portfolio development example- assignment
 
 > **SUMMARY**
 <br>✔️ Summary and About me
-<br>✔️ Skills
-<br>✔️ Education
 <br>✔️ Work Experience
 <br>✔️ Achievements And Certifications 🏆
 <br>✔️ Photography
@@ -21,9 +19,6 @@ Portfolio development example- assignment
 ✔️ Summary and About me
 <br>•Highly motivated IT Professional having 2+ years of experience in Software Testing.
 <br>• Bachelor of Engineering in Computer Scienece
-<br>• From Jammu and Kashmir, India
-<br>• Loves Cricket
-<br>•Loves photography
 <br> <b>[Have a look at my Project Roadmap](https://github.com/viirensharma/viren_portfolio/projects/1)</b>
 
 <br> My Roadmap's image:
@@ -35,20 +30,21 @@ Portfolio development example- assignment
 
 <br>✔️ Skills
 <br> Testing- Manual and Automation
-<br> Data Analyst
+
 
 
 
 <br>✔️ Education
 <br>:school: PGDM in Data Analytics for Business Decision Making  
+<br>:school: PGDM Project Management
 <br>:mortar_board: Bachelor of Engineering in Computer Science
-<br>:school_satchel: High school and Senior High 
+
 
 <br>✔️ Work Experience
 <br>• Knowledge of Web Applications and Mobile Applications Testing using Agile Methodology.
 <br>• Knowledge in Bug Tracking and Reporting.
 <br>• Extensive experience in Software Quality Testing of Web Client/Server and Web Services applications using Manual testing.
-<br>• Dynamic in working with all teams involving Developers, Business Analysts, Product team and Client Support teams for deliveries on time and budget with highest quality.
+<br>• Dynamic in working with all teams involving Developers, Business Analysts, Product teams and Client Support teams for deliveries on time and budget with highest quality.
 
 
 
